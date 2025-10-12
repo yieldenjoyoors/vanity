@@ -1,0 +1,11 @@
+{
+  "domain": "go.yieldenjoyoors.com",
+  "docsDomain": "pkg.go.dev",
+  "index": true,
+  "repositories": [
+    {
+      "prefix": "go2evm",
+      "url": "https://github.com/yieldenjoyoors/go2evm"
+    }
+  ]
+}
