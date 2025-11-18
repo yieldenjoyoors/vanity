@@ -6,6 +6,10 @@
     {
       "prefix": "go2evm",
       "url": "https://github.com/yieldenjoyoors/go2evm"
+    },
+    {
+      "prefix": "insur",
+      "url": "https://github.com/yieldenjoyoors/insur"
     }
   ]
 }
