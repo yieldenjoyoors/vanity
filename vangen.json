@@ -4,8 +4,8 @@
   "index": true,
   "repositories": [
     {
-      "prefix": "go2evm",
-      "url": "https://github.com/yieldenjoyoors/go2evm"
+      "prefix": "evmgo",
+      "url": "https://github.com/yieldenjoyoors/evmgo"
     },
     {
       "prefix": "insur",
