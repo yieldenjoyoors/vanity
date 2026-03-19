@@ -4,10 +4,6 @@
   "index": true,
   "repositories": [
     {
-      "prefix": "evmgo",
-      "url": "https://github.com/yieldenjoyoors/evmgo"
-    },
-    {
       "prefix": "insur",
       "url": "https://github.com/yieldenjoyoors/insur"
     }
